@@ -10,7 +10,7 @@
 
 ---
 ### About Me:
-I’m looking for a position where I will be able to develop my skills. I’m loyal, hard working and show good results in stressful situations. My main goal is to assist the organization I am working for perform at the highest level possible!!!
+I’m looking for a position where I will be able to develop my skills. I’m loyal, hard working and show good results in stressful situations. My main goal is to assist the organization I am working for perform at the highest level possible.
 
 ---
 ### Skills
