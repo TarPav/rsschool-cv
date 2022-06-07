@@ -1,1 +1,1 @@
-https://TarPav.github.io/rsschool-cv/cv
+https://TarPav.github.io/rsschool-cv/
