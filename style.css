@@ -274,7 +274,6 @@ body {
   background-repeat: no-repeat;
 }
 
-/** Adaptive **/
 .toggle {
   display: none;
   flex-direction: column;
